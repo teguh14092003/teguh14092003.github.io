@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restoran Favoritku</title>
+    <style>
+        /* Internal CSS */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+           https://www.rajarak.co.id/ /*https://www.rajarak.co.id/
+            color: merah;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        header img {
+            width: 50px; /* Ukuran logo */
+            height: auto;
+            margin-right: 15px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: white;
+        }
+        nav a:hover {
+            color: #ffd700;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            border-radius: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 15px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: left;
+        }
+        footer h3 {
+            margin-top: 0;
+        }
+        footer p, footer form {
+            margin: 10px 0;
+        }
+        footer form label {
+            display: block;
+            margin: 5px 0;
+        }
+        footer form input[type="text"], 
+        footer form input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        footer form input[type="radio"], 
+        footer form input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        footer form input[type="submit"] {
+            background-color: #ff6347;
+            color: blue;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer form input[type="submit"]:hover {
+            background-color: #ff4500;
+        }
+        footer div.social-icons {
+            margin-top: 15px;
+        }
+        footer div.social-icons a img {
+            margin: 0 10px;
+        }
+        iframe {
+            width: 100%;
+            height: 300px;
+            border: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <img src="https://assets-pergikuliner.com/uploads/bootsy/image/25793/medium_logo-restoran-sederhana-1.jpg"
+        
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#menu">Menu</a>
+            <a href="#about">About Us</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Konten Utama -->
+    <main>
+        <section id="home">
+            <h2>Selamat Datang di Restoran Favoritku</h2>
+            <p>Restoran ini menawarkan hidangan spesial yang terbuat dari bahan-bahan segar dan berkualitas. Kami berkomitmen untuk memberikan pengalaman kuliner terbaik kepada setiap pelanggan.</p>
+            <img src="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/01/30/3047303522.jpg"
+
+        <section id="menu">
+            <h2>Menu</h2>
+            <!-- Tabel Menu -->
+            <table>
+                <thead>
+                    <tr>
+                        <th>Gambar</th>
+                        <th>Nama Makanan</th>
+                        <th>Harga</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><img src=https:https://www.google.com/url?sa=i&url=https%3A%2F%2Fjabarekspres.com%2Fberita%2F2022%2F12%2F21%2Frekomendasi-sate-padang-enak-di-bandung%2F&psig=AOvVaw1K7l5NPMuc03jlmIvMO0e6&ust=1731743995538000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCY5qHv3YkDFQAAAAAdAAAAABAE=i&url=https%3A%2F%2Fwww.rajarak.co.id%2F2023%2F10%2Frumah-makan-padang-terdekat-dari-lokasi.html&psig=AOvVaw27iEgsxh5Of7LQaUpJwufL&ust=1731741838814000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi_w5vn3YkDFQAAAAAdAAAAABA0 alt="satepadang" width="100"></td>
+                        <td>satepadang</td>
+                        <td>Rp20.000</td>
+                    </tr>
+                    <tr>
+                        <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.astronauts.id%2Fblog%2Fresep-rendang-daging-sapi-untuk-lebaran-gurih-dan-nikmat%2F&psig=AOvVaw1j6O2PuX491AsofpH9wmja&ust=1731743935282000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND-74Pv3YkDFQAAAAAdAAAAABAE" alt="rendang" width="100"></td>
+                        <td>rendang</td>
+                        <td>Rp65.000</td>
+                    </tr>
+                    <tr>
+                        <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffood.detik.com%2Fresep-pembaca%2Fd-5860335%2Fresep-pembaca-resep-dendeng-basah-balado-yang-pedas-nampol-bikin-nagih&psig=AOvVaw1vYWEbbxxS_4WUntrcoGaW&ust=1731743801143000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDy4sXu3YkDFQAAAAAdAAAAABAE" alt="dendengbalado" width="100"></td>
+                        <td>dendengbalado</td>
+                        <td>Rp35.000</td>
+                    </tr>
+                    <tr>
+                        <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frri.co.id%2Fekonomi%2F660007%2Fmenyelami-kenikmatan-teh-hangat-manfaat-dan-ritualnya&psig=AOvVaw2BY54EJNqVcrwDuxosUScv&ust=1731744101384000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiwuNPv3YkDFQAAAAAdAAAAABAE" alt="tehhangat" width="100"></td>
+                        <td>tehhangat</td>
+                        <td>Rp15.000</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="testimonials">
+            <h2>Testimoni Pelanggan</h2>
+            <ol>
+                <li>"Makanan di sini luar biasa, pelayanan cepat dan ramah!" – Andi</li>
+                <li>"Tempat yang sempurna untuk makan bersama keluarga." – Lila</li>
+            </ol>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <h3>Kontak Kami</h3>
+        <p>Alamat: Jl. Makanan Enak No. 123, Jakarta</p>
+        <p>Telepon: (021) 12345678 | Email: info@restoranfavoritku.com</p>
+        
+        <!-- Formulir Reservasi -->
+        <h3>Formulir Reservasi</h3>
+        <form>
+            <label for="name">Nama:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="date">Tanggal Reservasi:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label>Jumlah Tamu:</label>
+            <input type="radio" id="2pax" name="guests" value="2" required> 2 Orang<br>
+            <input type="radio" id="4pax" name="guests" value="4"> 4 Orang<br>
+            <input type="radio" id="morepax" name="guests" value="more"> Lebih dari 4 Orang<br><br>
+
+            <input type="checkbox" id="terms" name="terms" required> Saya setuju dengan syarat dan ketentuan<br><br>
+
+            <input type="submit" value="Kirim">
+        </form>
+
+        <!-- Tautan Media Sosial -->
+        <div class="social-icons">
+            <h3>Ikuti Kami di Media Sosial</h3>
+            <a href="https://www.facebook.com/restoranmu" target="_blank">
+                <img src="https:https://scontent.fcgk22-1.fna.fbcdn.net/v/t1.6435-9/155585157_4014212101956875_8673970458450919216_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6mFAsm5IWzoQ7kNvgGwWIOd&_nc_zt=23&_nc_ht=scontent.fcgk22-1.fna&_nc_gid=A_8oLyZR_H9n-rav8ZTXgM7&oh=00_AYCztvSykLWxXeEnwnMfEUF2peL-BSBGUlKew6qwo1J_Ng&oe=675E5CF9=i&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D4014212098623542%26id%3D1607087496002693%26set%3Da.1607090306002412&psig=AOvVaw3kphDUJgAOeGrUOeiZdOT7&ust=1731744581435000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCLwrjx3YkDFQAAAAAdAAAAABAE" alt="Facebook" width="30" height="30">
+            </a>
+            <a href="https:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fsederhana.rajafa%2Freel%2FCxhZlCdhXuJ%2F&psig=AOvVaw0IN6LrUYwotqQUXX2_7f1Y&ust=1731744863708000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC-iMHy3YkDFQAAAAAdAAAAABAE/restoranmu" target="_blank">
+                <img src="https:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiZIh3PrPZIb53nwHxh-HSb72nlgrndsh6A&s=i&url=https%3A%2F%2Fwww.instagram.com%2Fsederhana.rajafa%2F&psig=AOvVaw0IN6LrUYwotqQUXX2_7f1Y&ust=1731744863708000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC-iMHy3YkDFQAAAAAdAAAAABAR" alt="Instagram" width="30" height="30">
+            </a>
+            <a href="https://twitter.com/restoranmu" target="_blank">
+                <img src="https://pbs.twimg.com/media/C00P9jhVIAECOsN?format=jpg&name=large" alt="Twitter" width="30" height="30">
+            </a>
+        </div>
+
+        <!-- Google Maps Iframe -->
+        <h3>Lokasi Kami</h3>
+        <iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127660.39558550129!2d100.2640469243679!3d-0.8421367155910138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2fd4b927d4d8b36d%3A0xff184b1deba4b689!2sRestoran%20Sederhana%20(SA)%20Rasuna%20Said!5e0!3m2!1sid!2sid!4v1731659865647!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+
+</body>
+</html>
